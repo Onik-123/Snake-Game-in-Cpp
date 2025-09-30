@@ -8,6 +8,7 @@ class Snake {
 	int length;
 
 	private:
+	enum Direction { UP, DOWN, LEFT, RIGHT };
 	std::vector<int> x_body;
 	std::vector<int> y_body;
 	int max_length;
