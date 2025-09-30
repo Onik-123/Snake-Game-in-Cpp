@@ -12,4 +12,4 @@ class Snake {
 	std::vector<int> y_body;
 	int max_length;
 	int direction;
-}
+};
