@@ -3,4 +3,4 @@
 class Grid {
 	public:
 	int width, height;
-}
+};
